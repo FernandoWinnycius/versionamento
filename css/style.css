@@ -22,8 +22,6 @@ body {
   font-size: 1.1rem;
   margin: 0 20px;
   text-transform: uppercase;
-  cursor: pointer;
-  user-select: none;
 }
 
 .menu a:hover {
@@ -61,7 +59,6 @@ a:not(.menu a) {
   text-decoration: none;
   font-weight: 600;
   border-bottom: 1px solid transparent;
-  user-select: none;
 }
 
 a:not(.menu a):hover {
